@@ -62,6 +62,6 @@ Toast 메세지가 뜨게됩니다. 로그인을 성공하면 홈 화면으로 �
 
 # 마무리
 2020 겨울방학 Programming GURU 구루2 안드로이드 플렌테라피하시조 <br>
-Developer - 김내림, 이민영 <br>
-Design - 이유진
+Developer - ***, *** <br>
+Design - ***
 
